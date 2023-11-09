@@ -1,5 +1,7 @@
 ## Brief introduction
 
+<img src="images/gyroid-flow.webp" align="right" width="20%"/>
+
 Hello! My name is [Kevin Marchais](https://www.linkedin.com/in/kevin-marchais/) and I'm a research engineer at Hivelix.
 
 I'm interested in:
@@ -7,6 +9,7 @@ I'm interested in:
 - Particle simulations (specialized in granular simulation)
 - Triply Periodic Minimal Structures (TPMS) - [Blender TPMS addon](https://github.com/kmarchais/blender-tpms)
 - Scientific visualization - [Blender VTK import-export addon](https://github.com/kmarchais/blender-vtk-importer-exporter)
+
 
 ## Projects
 - Contributor on [Microgen](https://github.com/3MAH/microgen)
