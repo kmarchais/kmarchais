@@ -1,10 +1,8 @@
-## Brief introduction
+## [Kevin Marchais](https://www.linkedin.com/in/kevin-marchais/), Research Engineer at Hivelix
 
 <img src="images/gyroid-flow.webp" align="right" width="20%"/>
 
-Hello! My name is [Kevin Marchais](https://www.linkedin.com/in/kevin-marchais/) and I'm a research engineer at Hivelix.
-
-I'm interested in:
+Interested in:
 - Additive manufacturing ([PhD 🇫🇷](https://pastel.hal.science/tel-03663374))
 - GPGPU Particle simulations
 - Data Science, Physics-Based Deep Learning
