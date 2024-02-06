@@ -6,7 +6,8 @@ Hello! My name is [Kevin Marchais](https://www.linkedin.com/in/kevin-marchais/) 
 
 I'm interested in:
 - Additive manufacturing ([PhD 🇫🇷](https://pastel.hal.science/tel-03663374))
-- Particle simulations (specialized in granular simulation)
+- GPGPU Particle simulations
+- Data Science, Physics-Based Deep Learning
 - Triply Periodic Minimal Structures (TPMS) - [Blender TPMS addon](https://github.com/kmarchais/blender-tpms)
 - Scientific 3D visualization - [Blender VTK import-export addon](https://github.com/kmarchais/blender-vtk-importer-exporter)
 
