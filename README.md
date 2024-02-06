@@ -1,4 +1,4 @@
-## [Kevin Marchais](https://www.linkedin.com/in/kevin-marchais/), Research Engineer at Hivelix
+## [Kevin Marchais](https://www.linkedin.com/in/kevin-marchais/), Research Engineer at [Hivelix](https://www.linkedin.com/company/hivelix/)
 
 <img src="images/gyroid-flow.webp" align="right" width="20%"/>
 
