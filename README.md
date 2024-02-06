@@ -48,9 +48,7 @@ I'm interested in:
 -->
 
 ## To contact me
-I speak 🇫🇷 🇬🇧 🇪🇸
-
-<a href="https://www.linkedin.com/in/kevin-marchais/">
+I speak 🇫🇷 🇬🇧 🇪🇸 <a href="https://www.linkedin.com/in/kevin-marchais/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
 </a>
 
